@@ -1,2 +1,2 @@
-# Curson-animation
+# Cursor-animation
 GSAP used
