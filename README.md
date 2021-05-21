@@ -1,4 +1,4 @@
 # Cursor-animation
-GSAP used
+    GSAP used
 
-https://devgupta-ikr.github.io/Cursor-animation/
+["¯\_(ツ)_/¯"](https://devgupta-ikr.github.io/Cursor-animation/)
